@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[223],{974:function(o){o.exports=JSON.parse('{"Copy":"\u10d9\u10dd\u10de\u10d8\u10e0\u10d4\u10d1\u10d0","ControlClickToFollowLink":"Ctrl+\u10d3\u10d0\u10d0\u10ec\u10d9\u10d0\u10de\u10e3\u10dc\u10d4\u10d7 \u10d1\u10db\u10e3\u10da\u10d6\u10d4 \u10d2\u10d0\u10d3\u10d0\u10e1\u10d0\u10e1\u10d5\u10da\u10d4\u10da\u10d0\u10d3","GettingThisReady":"\u10db\u10d6\u10d0\u10d3\u10d3\u10d4\u10d1\u10d0...","Remove":"\u10d0\u10db\u10dd\u10e8\u10da\u10d0"}')}}]);
+//# sourceMappingURL=223.97418193.chunk.js.map

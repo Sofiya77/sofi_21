@@ -1,0 +1,688 @@
+0	0
+هدفثق~
+هث~
+حشهىف~
+حشهدف~
+языковые параметры office~
+этот компьютер~
+экранный диктор~
+экранная лупа~
+экранная клавиатура~
+экрана~
+часы~
+центр отзывов~
+фрагменте экрана~
+фотографии~
+факсы и сканирование~
+управления~
+управление печатью~
+управление компьютером~
+удаленному рабочему столу~
+техническая поддержка~
+телефон~
+тв~
+тарифные планы~
+таблица символов~
+строка~
+столу~
+средство проверки памяти windows~
+средство записи действий~
+средство 3d-просмотра~
+средства администрирования windows~
+сообщения~
+советы~
+событий~
+смешанной реальности~
+службы~
+службы компонентов~
+сканирование~
+системный монитор~
+системе~
+символов~
+сведения о системе~
+ресурсов~
+режиме повышенной безопасности~
+реестра~
+редактор реестра~
+реальности~
+разрядная версия)~
+рабочему столу~
+просмотра~
+просмотр событий~
+проводник~
+проверки памяти windows~
+почта~
+портал смешанной реальности~
+помощь~
+политика безопасности~
+подключить~
+подключение к удаленному рабочему столу~
+поддержка~
+погода~
+повышенной безопасности~
+планы~
+планировщик заданий~
+печатью~
+параметры~
+параметры office~
+панель управления~
+памяти windows~
+очистка диска~
+отзывов~
+оптимизация дисков~
+о системе~
+ножницы~
+набросок на фрагменте экрана~
+на фрагменте экрана~
+музыка groove~
+монитор~
+монитор ресурсов~
+монитор брандмауэра защитника windows в режиме повышенной безопасности~
+лупа~
+локальная политика безопасности~
+консоли xbox~
+компьютером~
+компьютер~
+компонентов~
+компаньон консоли xbox~
+командная строка~
+клавиатура~
+кино и тв~
+карты~
+камера~
+калькулятор~
+календарь~
+к удаленному рабочему столу~
+источники данных odbc (64-разрядная версия)~
+инициатор iscsi~
+и часы~
+и тв~
+и сканирование~
+зфште~
+защитника windows в режиме повышенной безопасности~
+запись голоса~
+записки~
+записи действий~
+задач~
+заданий~
+диспетчер задач~
+дисков~
+диска~
+диск восстановления~
+диктор~
+действий~
+данных odbc (64-разрядная версия)~
+голоса~
+выполнить~
+восстановления~
+видеоредактор~
+версия)~
+ваш телефон~
+в режиме повышенной безопасности~
+быстрая помощь~
+будильники и часы~
+брандмауэра защитника windows в режиме повышенной безопасности~
+блокнот~
+безопасность windows~
+безопасности~
+администрирования windows~
+xeroxtoastnotifier~
+xerox print and scan experience~
+xerox notifications~
+xbox~
+xbox game bar~
+x86)~
+writer~
+wp~
+worpad~
+world pad~
+workpad~
+worf~
+word~
+wordpd~
+wordpas~
+wordpad~
+word[~
+word'~
+word processor~
+word processing~
+word pad~
+wodpad~
+wmv~
+wmplayer~
+winword~
+windows~
+windowsmedia~
+windows в режиме повышенной безопасности~
+windows speech recognition~
+windows shell~
+windows powershell~
+windows powershell ise~
+windows powershell ise (x86)~
+windows powershell (x86)~
+windows power shell~
+windows player~
+windows paint~
+windows mi~
+windows media player~
+windows medai~
+windows mea~
+windows md~
+windows 10~
+window player~
+window media player~
+windos media~
+widows media~
+where is paint~
+where is internet explorer?~
+wf~
+wfs~
+web browser~
+voice to text~
+voice recognition~
+video player~
+user experience improve program~
+the cloud~
+text editor~
+taskschd~
+taskmgr~
+s~
+system configuration~
+syp~
+swriter~
+store~
+start internet explorer~
+speech to text~
+speech recognition~
+spea~
+spartan~
+spaint~
+sources (32-bit)~
+soltaire~
+soll~
+solitiare~
+soliter~
+solitarie~
+solitare~
+solitaire collection~
+soliat~
+solataire~
+soffice~
+snippingtool~
+smath~
+smart~
+sly~
+skyu~
+skype~
+skype'~
+skyp[~
+skyo~
+skye~
+skydrive~
+sky[~
+sky drive~
+sku~
+skt~
+skpe~
+sj~
+simpress~
+setlang~
+services~
+secpol~
+sdraw~
+scan experience~
+scalc~
+sbase~
+sapisvr~
+safe mode)~
+s'k'y~
+rip~
+releasenotes~
+release notes~
+registration~
+regedit~
+recoverydrive~
+recognition~
+realtek audio console~
+quickassist~
+quick access~
+questions)~
+pâ~
+python~
+pythonw~
+python 3.7 module docs (64-bit)~
+python 3.7 manuals (64-bit)~
+python 3.7 64-bit)~
+python 3.7 (64-bit)~
+pwoer~
+pwershell~
+publisher~
+psr~
+psiny~
+psint~
+program~
+product registration~
+printmanagement~
+print and scan experience~
+print 3d~
+pqint~
+ppaint~
+powr~
+poweshell~
+powershell~
+powershell_ise~
+powershell.exe~
+powershell ise~
+powershell ise (x86)~
+powershell (x86)~
+powersheel~
+powerseh~
+powerpoint~
+powerpnt~
+powerhsell~
+power shell~
+poer~
+poaint~
+player~
+play m~
+play cd~
+pint~
+pinr~
+picture editor~
+piant~
+piaint~
+photo editor~
+perfmon~
+pbrush~
+paınt~
+paunt~
+pauint~
+patin~
+pasint~
+paont~
+paom~
+paoint~
+pant~
+panit~
+panint~
+panel~
+paiunt~
+paitn~
+paiont~
+painyt~
+paint~
+painty~
+paintt~
+paints~
+paintr~
+paintpaint~
+paintnt~
+paintint~
+painting~
+paintg~
+painte~
+paintbrush~
+paintaint~
+paint]~
+paint4~
+paint.exe~
+paint'~
+paint app~
+paint 3d~
+painrt~
+painnt~
+painmt~
+painjt~
+paini~
+paingt~
+paind~
+painbt~
+paina~
+pain t~
+paimt~
+paimnt~
+paijnt~
+paiint~
+paibt~
+paibnt~
+paiant~
+paiaint~
+pai'n~
+pai t~
+pai nt~
+paaint~
+p[aint~
+outlook~
+osk~
+open wordpad~
+open windows media player~
+open paint~
+open media player~
+open internet~
+open internet explorer~
+open ie~
+open edge~
+open cd~
+opaint~
+onenote for windows 10~
+onedrive~
+onedrie~
+onedirve~
+onede~
+one drive~
+omter~
+office~
+odbcad32~
+odbc data sources (32-bit)~
+odbc (64-разрядная версия)~
+oaint~
+notifications~
+notes~
+notepad~
+narrator~
+music player~
+mstsc~
+mssconfig~
+mspub~
+mspint~
+mspait~
+mspaint~
+mspaing~
+msonfig~
+msnconfig~
+msinfo32~
+msiconfig~
+msedge~
+msconig~
+msconifg~
+mscongig~
+mscongif~
+msconfog~
+msconfing~
+msconfig~
+msconfig.exe~
+msconfig'~
+msconfif~
+msconfic~
+msconfg~
+mscomfig~
+mscofig~
+mscnfig~
+mscinfig~
+mscconfig~
+msapint~
+msaccess~
+ms paint~
+ms edge~
+ms config~
+movie player~
+module docs (64-bit)~
+mode)~
+mi~
+misconfig~
+mip~
+microsoft store~
+microsoft solitaire collection~
+microsoft paint~
+microsoft onedrive~
+microsoft one drive~
+microsoft media~
+microsoft internet explorer~
+microsoft explorer~
+microsoft edge~
+microsoft cloud~
+microsft edge~
+meida~
+medu~
+medo~
+medis~
+medie~
+mediaplayer~
+mediaa~
+media player~
+mede~
+medai~
+mdsched~
+mdia~
+mconfig~
+mcconfig~
+math~
+math input panel~
+mapaint~
+manuals (64-bit)~
+magnify~
+libreoffice~
+libreoffice writer~
+libreoffice math~
+libreoffice impress~
+libreoffice draw~
+libreoffice calc~
+libreoffice base~
+libreoffice (safe mode)~
+legal~
+legal information~
+klondike~
+ixl~
+itnernet~
+iternet~
+ise~
+ise (x86)~
+iscsi~
+iscsicpl~
+ionter~
+inyter~
+inyrt~
+inty~
+intwr~
+intwer~
+intter~
+intrt~
+intrr~
+intrnet~
+intre~
+intnt~
+intnet~
+intner~
+intewr~
+intetr~
+intertnet~
+internter~
+internrt~
+interney~
+internext~
+internety~
+internett~
+internetr~
+internetn~
+internetexplorer~
+internet'~
+internet exporer~
+internet expolorer~
+internet exployer~
+internet exploror~
+internet explorer~
+internet explorere~
+internet explorer 11~
+internet explorer 10~
+internet exploreer~
+internet exploerer~
+internet exlorer~
+internet eplorer~
+internet browser~
+internest~
+internert~
+internent~
+interna~
+interm~
+interet~
+interent explorer~
+interenet~
+interbet~
+inter]~
+inter'~
+inter net~
+intenret~
+intenet explorer~
+intener~
+intel® graphics control panel~
+intellij idea community edition 2021.3.1~
+inteer~
+int exp~
+inr~
+input panel~
+innter~
+inm~
+information~
+inetrnet~
+ineternet~
+inernet explorer~
+in'~
+imternet~
+improve program~
+impress~
+iinternet~
+ie~
+iexplore~
+iexplorer.exe~
+iexplore.exe~
+iexploer~
+ieplore~
+iee~
+ie11~
+ie.exe~
+ie 11~
+idle (python 3.7 64-bit)~
+idea64~
+idea community edition 2021.3.1~
+i.e~
+i e~
+hp smart~
+hh~
+gô~
+gui~
+groove~
+graphics control panel~
+gooogle~
+goole~
+googlw~
+googlr~
+google.c~
+google'~
+google chrome~
+googel~
+gogle~
+goggle~
+gitbash~
+git-gui~
+git-cmd~
+git-bash~
+git release notes~
+git gui~
+git faqs (frequently asked questions)~
+git cmd~
+git bash~
+game bar~
+frequently asked questions)~
+for windows 10~
+faq~
+faqs (frequently asked questions)~
+exporer~
+explorer~
+explorer 11~
+exploer~
+experience~
+experience improve program~
+excel~
+ex[~
+eventvwr~
+eplorer~
+enternet~
+enternet explorer~
+enernet~
+ei~
+ege~
+egde~
+edition 2021.3.1~
+edgfe~
+edge~
+edge'~
+edege~
+eddge~
+e'd~
+draw~
+drawing~
+documents~
+docs (64-bit)~
+dfrgui~
+data sources (32-bit)~
+crome~
+crhome~
+copy dvd~
+control~
+control panel~
+control center~
+console~
+configuration~
+config.sys~
+compmgmt~
+community edition 2021.3.1~
+comexp~
+collection~
+collection s~
+cmd~
+cloud~
+cleanmgr~
+cj~
+chron~
+chrome~
+chrome]~
+chrome'~
+chrom,~
+chro,~
+chr'~
+chorme~
+chome~
+charmap~
+cg~
+center~
+cd burner~
+calc~
+burn disc~
+burn cd~
+burn a cd~
+browser~
+bit)~
+bash~
+base~
+bar~
+audio console~
+asked questions)~
+art~
+apint~
+and scan experience~
+acer product registration~
+acer legal information~
+acer documents~
+acer collection s~
+access~
+[paint~
+[aint~
+7 module docs (64-bit)~
+7 manuals (64-bit)~
+7 64-bit)~
+7 (64-bit)~
+64-разрядная версия)~
+64-bit)~
+3d~
+3d-просмотра~
+32-bit)~
+3.7 module docs (64-bit)~
+3.7 manuals (64-bit)~
+3.7 64-bit)~
+3.7 (64-bit)~
+3.1~
+2021.3.1~
+1~
+10~
+00~
+.msc~

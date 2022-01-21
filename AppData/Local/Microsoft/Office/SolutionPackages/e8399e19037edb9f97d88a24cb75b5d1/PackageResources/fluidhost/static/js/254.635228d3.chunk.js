@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[254],{1005:function(o){o.exports=JSON.parse('{"Copy":"\u041a\u043e\u043f\u0438\u0440\u0430\u0458","ControlClickToFollowLink":"Ctrl+\u043a\u043b\u0438\u043a \u0437\u0430 \u043f\u0440\u0430\u045b\u0435\u045a\u0435 \u0432\u0435\u0437\u0435","GettingThisReady":"\u041f\u0440\u0438\u043f\u0440\u0435\u043c\u0430 \u0441\u0435 \u043e\u0432\u043e...","Remove":"\u0423\u043a\u043b\u043e\u043d\u0438"}')}}]);
+//# sourceMappingURL=254.635228d3.chunk.js.map

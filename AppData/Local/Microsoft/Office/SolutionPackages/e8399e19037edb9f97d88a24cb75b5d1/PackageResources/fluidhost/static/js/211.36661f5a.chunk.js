@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[211],{962:function(a){a.exports=JSON.parse('{"Copy":"D\xe8an lethbhreac","ControlClickToFollowLink":"Ctrl+Briogadh gus an ceangal a leantainn","GettingThisReady":"Ga ullachadh\u2026","Remove":"Thoir air falbh"}')}}]);
+//# sourceMappingURL=211.36661f5a.chunk.js.map

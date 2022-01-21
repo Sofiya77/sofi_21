@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[230],{981:function(i){i.exports=JSON.parse('{"Copy":"Kopijuoti","ControlClickToFollowLink":"Ctrl + spustel\u0117kite, jei norite atidaryti sait\u0105","GettingThisReady":"Rengiama...","Remove":"\u0160alinti"}')}}]);
+//# sourceMappingURL=230.25cce4d7.chunk.js.map
